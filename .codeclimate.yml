@@ -4,8 +4,8 @@ engines:
     channel: "beta"
   checkstyle:
     enabled: true
-    config:
-      file: "checkstyle.xml"
+#    config:
+#      file: "checkstyle.xml"
 #    channel: "beta"
 
 ratings:
