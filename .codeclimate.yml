@@ -6,7 +6,7 @@ engines:
     enabled: true
     config:
       file: "checkstyle.xml"
-    channel: "beta"
+#    channel: "beta"
 
 ratings:
   paths:
